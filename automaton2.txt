@@ -1,0 +1,8 @@
+Alfabeto a b
+Estados 5
+Finais 3 5 
+Transicoes
+1 com 'a' => 1 2 
+1 com 'b' => 4 1
+2 com 'b' => 3 
+4 com 'a' => 5
