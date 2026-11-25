@@ -1,12 +1,9 @@
 import java.util.Stack;
 
 /**
- * 
- */
-
-/**
+ * Legacy copy of the automaton simulator kept for reference.
+ *
  * @author antonio
- * 
  */
 public class CopyOfAutomatonSimulator {
 	private Stack<Configuration> stack;
