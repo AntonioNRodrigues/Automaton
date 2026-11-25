@@ -1,12 +1,9 @@
 import java.util.Stack;
 
 /**
- * 
- */
-
-/**
+ * Simulates one non-deterministic automaton configuration at a time.
+ *
  * @author antonio
- * 
  */
 public class AutomatonSimulator {
 	private Stack<Configuration> stack;
